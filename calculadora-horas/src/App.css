@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+  background-image: linear-gradient(to bottom, rgb(88, 218, 250), rgb(0, 138, 252));
+  height: 100vh;
+}
+button{
+  border-radius: 15px;
+  background-color: rgba(42, 57, 255, 0.5);
+  color: white;
+  font-size: medium;
+}
+button:hover{
+  background-color: rgb(70, 144, 255);
+  color: rgb(0, 0, 0);
+}
+input{
+  text-align: center;
+  border-radius: 10px;
+}
+.zeca{
+  transition: 0.5s;
+  font-size: medium;
+  text-align: center;
+  display: block;
+  border:black double;
+  width: 500px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: linear-gradient( to bottom, rgb(3, 163, 212),rgb(98, 0, 255));
+}
+.pagodinho{
+  text-align: center;
+  margin-left: 450px;
+}
